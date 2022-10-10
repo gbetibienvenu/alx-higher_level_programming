@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-# 102-magic_calculation.py
-# Bienvenu Gbeti @ALX School
 
 
 def magic_calculation(a, b):
